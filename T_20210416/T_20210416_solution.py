@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 class Termin_4:
 
     def __init__(self):
-        self.data = self.read("T_20210417.json")
+        self.data = self.read("T_20210416.json")
         self.run()
 
     def run(self):
